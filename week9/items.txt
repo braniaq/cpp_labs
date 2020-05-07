@@ -1,0 +1,10 @@
+Pen 0 1.0
+Laptop 1 400.50
+Beer 2 3.50
+Orange 3 1.50
+Pillow 4 50
+Milk 5 2.20
+Bag 6 0.2
+Gun 7 500.99
+Ticket 8 30.50
+Blanket 9 22,90
